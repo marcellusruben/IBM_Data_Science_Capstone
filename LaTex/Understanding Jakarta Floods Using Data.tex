@@ -1,0 +1,87 @@
+\documentclass[a4paper,
+							12pt,
+							oneside,
+							openright,
+							DIV10,
+							numbers=noendperiod
+							]{scrreprt} %
+							
+\usepackage{amsmath}
+\usepackage{adjustbox}
+\usepackage{mathtools}
+\usepackage{xr}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+\usepackage{gensymb}
+\usepackage{subfig}
+\usepackage{tabularx}
+\usepackage{notoccite}
+\usepackage{titling}
+\usepackage{booktabs}
+\usepackage[pass]{geometry}
+\makeatletter
+\def\BState{\State\hskip-\ALG@thistlm}
+\makeatother
+
+\begin{document}
+\include{title}
+
+
+\newcommand{\equal}{=}	
+
+	
+\pagenumbering{arabic}
+\pagestyle{plain}
+%% Define custom font sizes
+\makeatletter
+\newcommand\tinyv{\@setfontsize\tinyv{5.00pt}{7}}
+\newcommand\tinyx{\@setfontsize\tinyx{4.95pt}{7}}
+\makeatother
+
+\renewcommand*\contentsname{Table of Contents}
+\setcounter{tocdepth}{2}
+\setcounter{lofdepth}{2}
+
+\tableofcontents
+\addtocontents{toc}{~\hfill\textbf{Page}\par}
+\addcontentsline{toc}{chapter}{Table of Contents}
+
+\include{intro}
+\include{rainfall}
+\include{predictingFloods}
+\include{kmeans}
+\include{parks}
+\include{conclusion}
+
+\begin{thebibliography}{1}
+	\bibitem{Wikipedia}
+		Daftar kecamatan dan kelurahan di Kota Administrasi Jakarta Pusat, 
+		\url{https://id.wikipedia.org/wiki/Daftar_kecamatan_dan_kelurahan_di_Kota_Administrasi_Jakarta_Pusat}
+	\bibitem{Wikipedia2}
+		Daftar kecamatan dan kelurahan di Kota Administrasi Jakarta Utara, 
+		\url{https://id.wikipedia.org/wiki/Daftar_kecamatan_dan_kelurahan_di_Kota_Administrasi_Jakarta_Utara}
+	\bibitem{Wikipedia3}
+		Daftar kecamatan dan kelurahan di Kota Administrasi Jakarta Timur, 
+		\url{https://id.wikipedia.org/wiki/Daftar_kecamatan_dan_kelurahan_di_Kota_Administrasi_Jakarta_Timur}
+	\bibitem{Wikipedia4}
+		Daftar kecamatan dan kelurahan di Kota Administrasi Jakarta Selatan, 
+		\url{https://id.wikipedia.org/wiki/Daftar_kecamatan_dan_kelurahan_di_Kota_Administrasi_Jakarta_Selatan}
+	\bibitem{Wikipedia5}
+		Daftar kecamatan dan kelurahan di Kota Administrasi Jakarta Barat, 
+		\url{https://id.wikipedia.org/wiki/Daftar_kecamatan_dan_kelurahan_di_Kota_Administrasi_Jakarta_Barat}
+	\bibitem{SDI}
+		Satu Data Indonesia, 
+		\url{https://data.go.id}
+	\bibitem{BPS}
+		Badan Pusat Statistik, 
+		\url{https://www.bps.go.id/}
+	\bibitem{FAPI}
+		Foursquare Developers, \url{https://developer.foursquare.com/docs/build-with-foursquare/categories/}
+	
+\end{thebibliography}
+
+\addcontentsline{toc}{chapter}{Bibliography}
+
+\end{document}

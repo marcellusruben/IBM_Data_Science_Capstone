@@ -1,0 +1,17 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_rw,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_jiwa,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Timur,Jatinegara,Bidara Cina,"005, 007, 011, 014",4,30 - 80 ,"08, 11, 20                        ",3,15,0,0,4500,0,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Kampung Melayu,"001, 002, 003, 004, 005, 006, 007, 008",8,30 - 180 ,"02, 08, 11, 12, 13, 20                        ",6,37,198,3808,10480,0,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cawang,"001, 002, 003, 004, 005, 008, 012",7,  10 - 80 ,"08, 11, 20                       ",3,20,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cililitan,"005, 006, 007",3,  10 - 40 ,"08, 11, 20                        ",3,9,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Timur,Makasar,Makasar,"005, 007",2,50 - 60 ,2,1,2,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Mampang Prapatan,Bangka,"002, 003, 004",3,100 - 160 ,"02, 03                                      ",2,5,20,559,2137,0,0,0,0,840,840,8,0
+Jakarta Selatan,Mampang Prapatan,Pela Mampang,"004, 005, 006, 007, 008, 009, 011",7,50 - 80 ,"02, 03                                         ",2,9,37,0,0,0,0,0,0,0,0,7,0
+Jakarta Selatan,Mampang Prapatan,Mampang Prapatan,"001, 004, 006",3,50,"02, 03                                             ",2,5,17,0,0,0,0,0,0,0,0,5,0
+Jakarta Selatan,Mampang Prapatan,Tegal Parang,"002, 003, 004, 005, 006, 007",6,50,"02, 03                                             ",2,9,40,0,0,0,0,0,0,0,0,9,0
+Jakarta Selatan,Mampang Prapatan,Kuningan Barat,"001, 003, 004",3,40 - 80 ,"02, 03                                             ",2,6,30,0,0,0,0,0,0,405,405,10,0
+Jakarta Selatan,Kebayoran Baru,Petogogan,"001, 002, 003",3,20 - 80 ,"02, 03                                             ",2,6,0,0,0,0,0,0,0,0,0,2,0
+Jakarta Selatan,Tebet,Bukit Duri,"010, 011, 012",3,20 - 120 ,"08, 11, 20                         ",3,9,24,0,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Pancoran,Pengadegan,1,1,  5 - 20,"08, 11, 20                         ",3,3,3,0,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Pesangrahan,Ulujami,"003, 005, 007",3,0 - 100 ,"08, 20                                                                 ",2,4,9,373,1364,0,0,0,0,0,0,1,0
+Jakarta Barat,Kembangan,Meruya Selatan,0,0,45,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Barat,Grogol Petamburan,Wijaya Kusuma,0,0,45,2,1,0,0,0,0,0,0,0,0,0,0,0,0

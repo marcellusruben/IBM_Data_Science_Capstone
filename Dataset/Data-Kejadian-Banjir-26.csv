@@ -1,0 +1,16 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_rw,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_jiwa,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Timur,Jatinegara,Kampung Melayu,"001, 002, 003, 004, 005, 006, 007, 008",8,30 - 100 ,"08, 13, 14, 15, 16,18",6,37,174,4236,11671,0,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Bidara Cina,"003, 005, 007, 011, 014",5, 10 - 30 ,"15, 16, 17, 18",4,20,71,1537,5180,0,0,0,0,0,0,0,0
+Jakarta Timur,Makasar,Cipinang Melayu,"003, 004",2,50 - 70 ,8,1,2,10,0,0,0,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Batu Ampar,6,1,50 - 70 ,8,1,1,1,80,300,0,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Kramat Jati,,0,50,17,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cililitan,,0,15,17,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Mampang Prapatan,Mampang Prapatan,5,1,50 - 70 ,8,1,1,4,0,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Mampang Prapatan,Bangka,,0,  10 - 30 ,8,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Pesanggarahan,Ulujami,"003, 007",2,  10 - 100 ,"08, 12, 13, 14, 17",5,8,11,185,639,0,0,0,0,273,15,6,0
+Jakarta Selatan,Kebayoran Baru,Petogogan,"001, 002, 003",3,  10 - 30 ,12,1,3,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Lama,Pondok Pinang,"001, 005, 008",3,  10 - 120 ,"13, 14, 15",3,6,29,141,350,0,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Lama,Cipulir,10,1,10,14,1,1,2,0,0,0,0,0,0,0,0,0,0
+Jakarta Barat,Cengkareng,Duri Kosambi,,0,60 - 80 ,14,1,0,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Barat,Cengkareng,Rawa Buaya,"002, 004, 009",3,10,14,1,3,10,0,0,0,0,0,0,0,0,0,0
+Jakarta Barat,Kembangan,Kembangan Utara,"001, 002",2,30 - 80 ,"14, 1 5",2,5,87,312,227,2,0,0,0,71,71,2,0

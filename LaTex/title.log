@@ -1,0 +1,248 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.24)  24 APR 2020 22:38
+entering extended mode
+**./title.tex
+(title.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+! Undefined control sequence.
+l.2 \newgeometry
+                {margin=2cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \newgeometry{m
+                  argin=2cm}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--4
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 	\begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--7
+[] 
+ []
+
+! Undefined control sequence.
+l.10     \huge
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (74.34125pt too wide) in paragraph at lines 11--13
+ \OT1/cmr/bx/n/10 Understanding 
+ []
+
+
+Overfull \hbox (37.35391pt too wide) in paragraph at lines 11--13
+ \OT1/cmr/bx/n/10 Jakarta 
+ []
+
+
+Overfull \hbox (33.49425pt too wide) in paragraph at lines 11--13
+ \OT1/cmr/bx/n/10 Floods 
+ []
+
+
+Overfull \hbox (17.21655pt too wide) in paragraph at lines 11--13
+ \OT1/cmr/bx/n/10 Us- 
+ []
+
+
+Overfull \hbox (15.33325pt too wide) in paragraph at lines 11--13
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (24.47205pt too wide) in paragraph at lines 11--13
+ \OT1/cmr/bx/n/10 Data 
+ []
+
+! Undefined control sequence.
+l.14     \large
+                I\textbf{BM Data Science Capstone Project}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no I in font nullfont!
+
+Overfull \hbox (19.09712pt too wide) in paragraph at lines 14--16
+ []\OT1/cmr/bx/n/10 BM 
+ []
+
+
+Overfull \hbox (24.47205pt too wide) in paragraph at lines 14--16
+ \OT1/cmr/bx/n/10 Data 
+ []
+
+
+Overfull \hbox (18.52768pt too wide) in paragraph at lines 14--16
+ \OT1/cmr/bx/n/10 Sci- 
+ []
+
+
+Overfull \hbox (22.04156pt too wide) in paragraph at lines 14--16
+ \OT1/cmr/bx/n/10 ence 
+ []
+
+
+Overfull \hbox (24.1179pt too wide) in paragraph at lines 14--16
+ \OT1/cmr/bx/n/10 Cap- 
+ []
+
+
+Overfull \hbox (26.41791pt too wide) in paragraph at lines 14--16
+ \OT1/cmr/bx/n/10 stone 
+ []
+
+
+Overfull \hbox (37.35399pt too wide) in paragraph at lines 14--16
+ \OT1/cmr/bx/n/10 Project 
+ []
+
+! Undefined control sequence.
+l.17 	\small
+             by:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.20     \large
+                Marcellus Ruben Winastwan
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.23     \large
+                24-04-2020
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27     \end{titlepage}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./title.tex
+               
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 21 strings out of 480934
+ 458 string characters out of 2900385
+ 240327 words of memory out of 3000000
+ 15990 multiletter control sequences out of 15000+200000
+ 532646 words of font info for 25 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,1n,15p,83b,124s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

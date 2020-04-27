@@ -1,0 +1,13 @@
+kota_administrasi,kecamatan,kelurahan,rw,jumlah_rw,ketinggian_air,tanggal_kejadian,lama_genangan,jumlah_terdampak_rw,jumlah_terdampak_rt,jumlah_terdampak_kk,jumlah_jiwa,jumlah_meninggal,jumlah_hilang,jumlah_luka_berat,jumlah_luka_ringan,jumlah_pengungsi,jumlah_pengungsi_tertinggi,jumlah_tempat_pengungsian,nilai_kerugian
+Jakarta Timur,Jatinegara,Bidara Cina,"005, 006, 007, 011, 014",5,20 - 150 ,"04, 08, 09                              ",3,15,63,2268,6546,0,0,0,0,0,0,0,0
+Jakarta Timur,Jatinegara,Kampung Melayu,"001, 002, 003, 004, 005, 006, 007, 008",8,30 - 300 ," 04, 08, 09                              ",3,21,153,7466,18883,0,0,0,0,136,136,2,0
+Jakarta Timur,Kramat Jati,Cawang,"006, 007",2,30 - 100 ,4,1,2,4,94,279,0,0,0,0,0,0,0,0
+Jakarta Timur,Kramat Jati,Cililitan,"001, 002, 003, 005, 008, 012",6,50 - 250 ,4,1,6,28,530,2120,0,0,0,0,0,0,0,0
+Jakarta Selatan,Tebet,Bukit Duri,10,1,20 - 70 ,4,1,1,2,285,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Kebayoran Lama,Pondok Pinang,"004, 005, 008",3,20 - 250 ,"08, 09                             ",2,4,6,317,1194,0,0,0,0,0,0,6,0
+Jakarta Selatan,Cilandak,Pondok Labu,3,1,30 - 100 ,"08, 09                              ",2,2,3,0,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Cilandak,Lebak Bulus,3,0,30 - 100                                                                     ,"08, 09                             ",2,0,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Selatan,Pesangrahan,Ulujami,"003, 007",2,50 - 100 ,"08, 09                              ",2,4,10,739,2931,0,0,0,0,800,400,2,0
+Jakarta Selatan,Pesangrahan,Bintaro,"003, 004, 005, 007, 010, 012, 014",7,50 - 100 ,"08, 09                            ",2,7,20,660,2873,0,0,0,0,0,0,2,0
+Jakarta Barat,Kebon Jeruk,Kebon Jeruk,,0,30 - 50                                                                    ," 08, 09                              ",2,0,0,0,0,0,0,0,0,0,0,0,0
+Jakarta Barat,Kebon Jeruk,Kedoya Selatan,5,1,30 - 40                                                                   ,9,1,1,0,0,0,0,0,0,0,0,0,0,0
